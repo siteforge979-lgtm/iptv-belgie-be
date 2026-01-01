@@ -1,7 +1,7 @@
 ---
-name: "Sofie Peeters"
+name: "Johan Vermeulen"
 location: "Brugge, Belgium"
 rating: 4
 ---
 
-Met het hele gezin genieten we van iptv belgie. De kids kijken graag naar hun favoriete tekenfilms terwijl mijn man en ik ons verdiepen in boeiende series. Een grote variatie voor ieder lid van het gezin!
+We gebruiken IPTV België als gezin en het is ideaal. Er is iets voor iedereen, van kinderprogramma's tot documentaires en series. De zenderkeuze is divers, en het is eenvoudig om te navigeren, zelfs voor onze jongste. Erg blij met het aanbod!

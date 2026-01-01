@@ -1,7 +1,7 @@
 ---
-name: "Emma De Backer"
-location: "Brussel, Belgium"
-rating: 5
+name: "Jan Peeters"
+location: "Hasselt, Belgium"
+rating: 4
 ---
 
-De klantenservice van iptv belgie is fantastisch. Wanneer ik vragen had over installatie, werd ik vriendelijk en snel geholpen. Echt topservice, dat geeft me vertrouwen in hun dienst.
+Mijn ervaring met de klantenservice van IPTV België is zeer positief. Bij vragen kreeg ik snel en vriendelijk antwoord. Ze zijn zeer behulpzaam en oplossingsgericht. Goede ondersteuning, wat voor mij erg belangrijk is bij het kiezen van een service.

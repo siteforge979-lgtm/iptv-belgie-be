@@ -1,7 +1,7 @@
 ---
-name: "Jan Goossens"
-location: "Luik, Belgium"
-rating: 4
+name: "Els Van der Veken"
+location: "Kortrijk, Belgium"
+rating: 5
 ---
 
-De prijs-kwaliteitverhouding van iptv belgie is uitstekend. Voor een betaalbaar abonnement krijg je toegang tot een enorme hoeveelheid zenders en content. Absoluut de moeite waard!
+IPTV België biedt geweldige waarde voor je geld. Voor een redelijke prijs hebben we toegang tot een gigantisch aanbod van zenders en programma's. De kwaliteit is top, en we besparen maandelijks op dure kabelabonnementen. Zeker een aanrader voor wie waar voor zijn geld wil!

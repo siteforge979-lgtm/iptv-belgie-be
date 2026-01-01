@@ -2,7 +2,7 @@
   {
     "id": "main",
     "brandName": "iptv--belgie.be",
-    "siteUrl": "https://iptv--belgie.be.pages.dev",
+    "siteUrl": "https://iptv-belgie-be.pages.dev",
     "focusKeyword": "IPTV",
     "country": "United States",
     "countryCode": "US",
@@ -42,15 +42,15 @@
     "channelCount": 55000,
     "vodCount": 90000,
     "countryCount": 100,
-    "primaryColor": "#3B82F6",
-    "secondaryColor": "#1E40AF",
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
     "templateId": "classic",
     "defaultLanguage": "nl",
     "enabledLanguages": [
       "nl"
     ],
     "responseTime": "under 2 hours",
-    "organizationDescription": "Ontdek een geheel nieuwe manier van televisie kijken met iptv belgie. Geniet van een uitgebreide selectie aan zenders en films, zonder gedoe. Perfect voor elke kijker in België.",
+    "organizationDescription": "iptv--belgie.be biedt de beste digitale TV-ervaring in België met een breed scala aan lokale en internationale kanalen. Geniet van naadloze streaming met onze betrouwbare service.",
     "paymentSettings": {
       "buttonText": "BUY NOW",
       "paymentType": "paygate",

@@ -1,7 +1,7 @@
 ---
-name: "Marc De Smet"
+name: "Lea Van Damme"
 location: "Leuven, Belgium"
 rating: 5
 ---
 
-Ik was aangenaam verrast door hoeveel apparaten iptv belgie ondersteunt. Of ik nu op mijn tablet, smartphone of smart TV kijk, de ervaring is altijd vloeiend en probleemloos. Geen gedoe meer met verschillende abonnementen!
+De compatibiliteit van IPTV België met al onze apparaten is fantastisch. Of we nu de tv, tablet of smartphone gebruiken, de kwaliteit blijft hoog. Het is fijn dat we overal in huis kunnen kijken zonder problemen. Echt een pluspunt voor ons gezin!
