@@ -1,7 +1,7 @@
 ---
-name: "Tom Janssen"
-location: "Antwerpen, Belgium"
+name: "Tom Peeters"
+location: "Antwerpen, België"
 rating: 5
 ---
 
-Als fervente sportliefhebber ben ik enorm tevreden over IPTV België. Ik mis geen enkele wedstrijd meer, of het nu voetbal of Formule 1 is. De beeldkwaliteit is fantastisch en het aanbod is zeer uitgebreid. Perfecte manier om live sport te volgen!
+Als sportfan kan ik met IPTV België nu elke voetbalwedstrijd live volgen zonder haperingen. De kwaliteit is uitstekend en ik mis geen enkel moment meer van mijn favoriete ploegen. Echt een aanrader voor elke sportliefhebber!

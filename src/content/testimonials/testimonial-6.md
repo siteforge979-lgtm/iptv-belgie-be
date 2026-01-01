@@ -1,7 +1,7 @@
 ---
-name: "Els Van der Veken"
-location: "Kortrijk, Belgium"
-rating: 5
+name: "Frederik Claes"
+location: "Mechelen, België"
+rating: 4
 ---
 
-IPTV België biedt geweldige waarde voor je geld. Voor een redelijke prijs hebben we toegang tot een gigantisch aanbod van zenders en programma's. De kwaliteit is top, en we besparen maandelijks op dure kabelabonnementen. Zeker een aanrader voor wie waar voor zijn geld wil!
+IPTV België biedt uitstekende prijs-kwaliteitverhouding. Voor een redelijke prijs krijg ik toegang tot een enorm aantal kanalen in hoge definitie. Het voelt goed om zoveel te krijgen voor een bescheiden maandelijkse bijdrage.

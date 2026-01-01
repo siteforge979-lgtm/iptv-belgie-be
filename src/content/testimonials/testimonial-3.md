@@ -1,7 +1,7 @@
 ---
-name: "Johan Vermeulen"
-location: "Brugge, Belgium"
-rating: 4
+name: "Marc en Sofie Vermeulen"
+location: "Brugge, België"
+rating: 5
 ---
 
-We gebruiken IPTV België als gezin en het is ideaal. Er is iets voor iedereen, van kinderprogramma's tot documentaires en series. De zenderkeuze is divers, en het is eenvoudig om te navigeren, zelfs voor onze jongste. Erg blij met het aanbod!
+IPTV België is perfect voor ons gezin; er is iets voor iedereen! Kinderen genieten van de veilige kinderkanalen terwijl wij onze favoriete series en films kijken. Heel gebruiksvriendelijk en ideaal voor gezamenlijke avondjes.

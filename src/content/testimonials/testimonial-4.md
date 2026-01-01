@@ -1,7 +1,7 @@
 ---
-name: "Lea Van Damme"
-location: "Leuven, Belgium"
+name: "Joris Van Damme"
+location: "Luik, België"
 rating: 5
 ---
 
-De compatibiliteit van IPTV België met al onze apparaten is fantastisch. Of we nu de tv, tablet of smartphone gebruiken, de kwaliteit blijft hoog. Het is fijn dat we overal in huis kunnen kijken zonder problemen. Echt een pluspunt voor ons gezin!
+De compatibiliteit van IPTV België met al mijn apparaten is indrukwekkend. Of het nu mijn smartphone, tablet of smart TV is, alles werkt vlekkeloos. Het gemak waarmee ik kan schakelen tussen apparaten is ongeëvenaard!

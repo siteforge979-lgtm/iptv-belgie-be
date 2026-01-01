@@ -2,8 +2,8 @@
   {
     "id": "main",
     "brandName": "iptv--belgie.be",
-    "tagline": "Ervaar uitstekend IPTV plezier alleen bij iptv--belgie.be",
-    "description": "iptv--belgie.be biedt de beste digitale TV-ervaring in België met een breed scala aan lokale en internationale kanalen. Geniet van naadloze streaming met onze betrouwbare service.",
+    "tagline": "Top IPTV België: Jouw toegang tot de beste zenders en meer",
+    "description": "Ontdek de ultieme IPTV-ervaring in België met een breed scala aan kanalen, betrouwbare streaming en uitstekende klantenservice. Usa al je favoriete programma's overal en altijd met iptv--belgie.be.",
     "channelCount": 55000,
     "vodCount": 90000,
     "supportEmail": "streamonlinever@gmail.com",
@@ -12,44 +12,44 @@
     "siteUrl": "https://iptv-belgie-be.pages.dev",
     "features": [
       {
-        "title": "Uitgebreide Zenderlijst",
-        "description": "Toegang tot honderden zenders, lokaal en internationaal. Van nieuws en sport tot films en series, altijd iets voor iedereen te bekijken.",
-        "icon": "Tv"
-      },
-      {
-        "title": "On-demand Films & Series",
-        "description": "Mis nooit meer een blockbuster of een trending serie. Met onze on-demand service geniet je van entertainment op jouw voorwaarden.",
-        "icon": "Film"
-      },
-      {
-        "title": "Gebruiksvriendelijk Platform",
-        "description": "Een intuïtieve interface die direct toegang biedt tot je favoriete content. Start met kijken in slechts enkele klikken.",
-        "icon": "Zap"
-      },
-      {
-        "title": "Veilige en Stabiele Verbinding",
-        "description": "Ervaar zorgeloze kijkervaringen met onze veilige, stabiele en buffer-vrije verbindingen, optimaal beschermd voor ultiem kijkplezier.",
-        "icon": "Shield"
-      },
-      {
-        "title": "Wereldwijde Toegang",
-        "description": "Kijk Belgische en internationale zenders overal ter wereld. Verbinding maken met je roots was nog nooit zo eenvoudig.",
+        "title": "Onbeperkte Toegang tot Kanalen",
+        "description": "Krijg toegang tot honderden lokale en internationale tv-kanalen. Geniet van sport, nieuws, entertainment en meer zonder grenzen, allemaal vanuit het comfort van je eigen huis.",
         "icon": "Globe"
       },
       {
-        "title": "On-demand Muziek",
-        "description": "Luister naar duizenden muzieknummers en radiostations op elk moment. Breng je muzieksmaak overal mee naar toe.",
-        "icon": "Headphones"
+        "title": "Betrouwbare Streaming Kwaliteit",
+        "description": "Ervaar ongeëvenaarde streaming kwaliteit zonder onderbrekingen. Onze diensten zorgen ervoor dat je favoriete shows altijd beschikbaar zijn met de hoogste resolutie.",
+        "icon": "Tv"
       },
       {
-        "title": "Flexibele Betalingsopties",
-        "description": "Betaal gemakkelijk en veilig met diverse betalingsmogelijkheden. Kies de optie die voor jou het meest geschikt is.",
+        "title": "Gebruiksvriendelijke Interface",
+        "description": "Met onze intuïtieve en eenvoudige interface navigeer je moeiteloos door al je content. Alles van zappen tot het instellen van je voorkeuren is kinderspel.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Geen Verborgen Kosten",
+        "description": "Geniet van volledige transparantie met onze abonnementsopties. Geen verborgen kosten of verrassingen; je betaalt alleen voor wat je ziet.",
         "icon": "CreditCard"
       },
       {
-        "title": "24/7 Klantenservice",
-        "description": "Onze vriendelijke en deskundige klantenservice staat altijd voor je klaar om eventuele vragen of problemen op te lossen.",
-        "icon": "Users"
+        "title": "24/7 Klantenondersteuning",
+        "description": "Onze toegewijde klantenservice is altijd beschikbaar om je vragen te beantwoorden en eventuele problemen snel en efficiënt op te lossen.",
+        "icon": "Headphones"
+      },
+      {
+        "title": "Veilige en Veilige Verbinding",
+        "description": "Met geavanceerde beveiligingsprotocollen blijven al je gegevens beschermd. Ervaar zorgeloos kijken met de wetenschap dat je privacy gewaarborgd is.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Rewind & Vastleggen",
+        "description": "Mis nooit meer een moment met onze flexibele opneemfuncties. Spoel terug naar je favoriete scènes of neem volledige programma's op voor later.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Ondersteuning voor Verschillende Apparaten",
+        "description": "Kijk je favoriete shows op elk apparaat dat je kiest. Van smart-tv's tot tablets en smartphones, iptv--belgie.be werkt overal moeiteloos.",
+        "icon": "Play"
       }
     ],
     "paymentSettings": {

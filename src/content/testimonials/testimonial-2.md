@@ -1,7 +1,7 @@
 ---
-name: "Sophie De Clercq"
-location: "Gent, Belgium"
-rating: 5
+name: "Liesbeth Jacobs"
+location: "Gent, België"
+rating: 4
 ---
 
-Voor een filmfanaat zoals ik is IPTV België een droom. De selectie films is enorm en ik kan kiezen uit de nieuwste releases of klassiekers. De streaming gaat zonder haperingen en de beeldkwaliteit is subliem. Echt een aanrader!
+Als filmliefhebber ben ik enorm tevreden met de uitgebreide selectie die IPTV België biedt. Van de nieuwste blockbusters tot klassiekers, ik kom altijd aan mijn trekken. De streamingkwaliteit is geweldig zonder enige onderbrekingen.

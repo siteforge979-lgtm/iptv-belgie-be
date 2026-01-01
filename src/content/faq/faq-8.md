@@ -1,7 +1,7 @@
 ---
-question: "Hoe lang duurt het om iptv belgie te activeren?"
-category: "general"
+question: "Hoe snel wordt mijn account geactiveerd bij iptv-belgie.be?"
+category: "technical"
 order: 8
 ---
 
-Bij iptv--belgie.be streven we naar snelheid en efficiëntie bij het activeren van je dienst. Na het voltooien van de betaling en registratie, worden je inloggegevens meestal binnen enkele uren verzonden. In de meeste gevallen kun je dezelfde dag nog beginnen met kijken. Neem contact op met ons ondersteuningsteam als je binnen 24 uur geen toegangsinformatie hebt ontvangen.
+Na het voltooien van je aanmelding wordt je account bij iptv-belgie.be doorgaans binnen enkele minuten geactiveerd. Je ontvangt een e-mail met inloggegevens waarmee je direct toegang hebt tot de kanalen. In sommige gevallen kan het iets langer duren als er aanvullende verificatie nodig is. Mocht je problemen ondervinden met de activering, neem dan contact op met onze klantenservice voor directe hulp.
